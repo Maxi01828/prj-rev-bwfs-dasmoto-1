@@ -1,8 +1,4 @@
-
-
-
-h1
- {
+h1 {
   font-family: helvetica;
   font-size:100px;
   font-weight: bold;
@@ -11,44 +7,33 @@ h1
   margin: auto;
   padding:70px;
   position: relative;
-
 }
 
-.image
-{
+.image {
     position: absolute;
     clip: rect(10px,1665px,130px,0px);
     top:50px;
 }
 
-
-
-h2
-{
+h2 {
   font-family:helvetica;
   font-size:32px;
   font-weight:bold;
   color: white;
-
 }
 
-.version-one
-  {
+.version-one {
     background-color: mediumspringgreen;
   }
 
-.version-two
-  {
+.version-two {
     background-color: lightcoral;
   }
 
-.version-three
-  {
+.version-three {
     background-color: skyblue;
   }
 
-h3,
-p
-  {
+h3, p {
     font-family: helvetica;
   }
